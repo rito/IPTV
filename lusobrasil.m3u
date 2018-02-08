@@ -99,6 +99,168 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria01.jpg" group-title="PORTUGAL",RTP Memoria
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
 
+## Portugal Parte 2
+
+
+#EXTINF:0,CANAIS DE PORTUGAL [PT]
+http://wse.planeta-online.tv:1935/live/channel_3/index.m3u8
+
+#EXTINF:0,ÁGUEDA TV
+http://agueda.tv:1756/stream.flv?live.m3u8
+
+#EXTINF:0,ECONÓMICO TV
+http://213.13.26.11:1935/live/etv_direto/livestream.m3u8
+
+#EXTINF:0,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+#EXTINF:0,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_pt.m3u8
+
+#EXTINF:0,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_pt.m3u8
+
+#EXTINF:0,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+#EXTINF:0,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_pt.m3u8
+
+#EXTINF:0,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_pt.m3u8
+
+#EXTINF:0,IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline1/live.m3u8
+
+#EXTINF:0,IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline2/live.m3u8
+
+#EXTINF:0,IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline3/live.m3u8
+
+#EXTINF:0,IURD TV
+http://xiurdtveux.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0,ODIVELAS TV
+http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
+
+
+
+#EXTINF:0,RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+
+#EXTINF:0,RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:0,RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
+
+#EXTINF:0,RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:0,RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+
+#EXTINF:0,RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:0,RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+
+#EXTINF:0,RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:0,RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+
+#EXTINF:0,RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:0,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+
+#EXTINF:0,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:0,RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira_5ch1016h264H14.stream/livestream.m3u8
+
+#EXTINF:0,RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:0,RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+
+#EXTINF:0,RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem.smil/chunklist_b600000_slpt.m3u8
+
+#EXTINF:0,SANTUÁRIO DE FÁTIMA - CAPELINHA DAS APARIÇÕES
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:0,SIC
+http://213.13.26.11:1935/live/sic/livestream.m3u8
+
+#EXTINF:0,SIC NOTÍCIAS
+http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
+
+#EXTINF:0,SPORT TV 1
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+
+#EXTINF:0,SPORT TV 1
+http://31.204.128.127:8081/live/portugal1/playlist.m3u8
+
+#EXTINF:0,SPORT TV 1
+http://213.163.65.116:8081/live/portugal1/playlist.m3u8
+
+#EXTINF:0,SPORT TV 1
+http://213.163.71.139:8081/live/portugal1/playlist.m3u8
+
+#EXTINF:0,SPORT TV 3
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+
+#EXTINF:0,SPORT TV 3
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+
+#EXTINF:0,SPORT TV 3
+http://31.204.128.127:8081/live/portugal2/playlist.m3u8
+
+#EXTINF:0,SPORT TV 3
+http://31.204.128.127:8081/live/portugal3/playlist.m3u8
+
+#EXTINF:0,TPA
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/live.m3u8
+
+#EXTINF:0,TV CABO VERDE
+http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8
+
+#EXTINF:0,TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+
+#EXTINF:0,TVI
+http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/chunklist_b814000.m3u8
+
+#EXTINF:0,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b814000.m3u8
+
+#EXTINF:0,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+
+#EXTINF:0,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
+
+#EXTINF:0,TV LISBOA
+http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
+
+#EXTINF:0,TV MANÁ-1
+http://195.22.19.179:1935/manasat/manasat1/live.m3u8
+
+#EXTINF:0,TV MANÁ-1
+http://195.22.19.179:1935/manasat/manasat2/live.m3u8
+
+#EXTINF:0,TV MANÁ-1
+http://195.22.19.179:1935/manasat/manasat3/live.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/br.png" group-title="LABEL",~ Brazil TV ~
 http://www.lengua.com/anthems/Brazil.mp3
 
@@ -353,6 +515,209 @@ http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/394573185/Logo_WizardTV.jpg" group-title="BRAZIL",Wizard TV
 http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8
+
+##Parte 2 Brasil...
+
+
+#EXTINF:0,BIG BROTHER BRASIL
+http://31.204.128.112:8081/live/bbbhd/playlist.m3u8
+
+#EXTINF:0,BIG BROTHER BRASIL
+http://208.115.227.212:1935/RedeCanaisBBB/myStream/live.m3u8
+
+#EXTINF:0,BIG BROTHER BRASIL
+http://213.163.65.116:8081/live/bbbhd/playlist.m3u8
+
+#EXTINF:0,BIG BROTHER BRASIL
+http://213.163.71.139:8081/live/bbbhd/playlist.m3u8
+
+
+#EXTINF:0,CARTOON NETWORK
+http://31.204.128.112:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:0,CARTOON NETWORK
+http://31.204.128.127:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:0,CARTOON NETWORK
+http://213.163.65.116:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:0,CARTOON NETWORK
+http://213.163.71.139:8081/live/cartoon/playlist.m3u8
+
+
+#EXTINF:0,ESPN BRASIL
+http://31.204.128.112:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:0,ESPN BRASIL
+http://31.204.128.127:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:0,ESPN BRASIL
+http://213.163.65.116:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:0,ESPN BRASIL
+http://213.163.71.139:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eitv480.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO
+http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream_480p/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO
+http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO HD
+http://ei.live-ss-cct.stormsec.com.br:80/live/Evento1.smil/chunklist_b1300000.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO HD
+http://ei.live-ss-cct.stormsec.com.br:80/live/Evento1.smil/chunklist_b2048000.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO HD
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eitv720.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX
+http://ei.ss-lisa.eiplus.com.br:80/live/evento3.stream_480p/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX
+http://ei.ss-lisa.eiplus.com.br:80/live/evento3.stream/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX HD
+http://ei.live-ss-cct.stormsec.com.br:80/live/Evento3.smil/chunklist_b1300000.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX HD
+http://ei.live-ss-cct.stormsec.com.br:80/live/Evento3.smil/chunklist_b2048000.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX SD
+http://ei.ss-lisa.eiplus.com.br:80/live/evento3.stream_240p/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX SD
+http://ei.ss-lisa.eiplus.com.br:80/live/evento3.stream_360p/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX 2
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine480.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX 2 HD
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine720.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX 2 SD
+http://ei.ss-lisa.eiplus.com.br:80/live/evento2.stream_360p/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX 2 SD
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine240.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX 2 SD
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine360.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO SD
+http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream_240p/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO SD
+http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream_360p/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO SD
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eitv240.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO SD
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eitv360.m3u8
+
+
+#EXTINF:0,FOX SPORTS
+http://31.204.128.112:8081/live/foxsport/playlist.m3u8
+
+#EXTINF:0,FOX SPORTS
+http://31.204.128.127:8081/live/foxsport/playlist.m3u8
+
+#EXTINF:0,FOX SPORTS
+http://213.163.65.116:8081/live/foxsport/playlist.m3u8
+
+#EXTINF:0,FOX SPORTS
+http://213.163.71.139:8081/live/foxsport/playlist.m3u8
+
+
+
+#EXTINF:0,GLOBO INTERNACIONAL
+http://art.nextv.ca:80/nextv/globo/index.m3u8
+
+#EXTINF:0,GLOBO SP
+http://31.204.128.112:8081/live/sptvhd/playlist.m3u8
+
+#EXTINF:0,GLOBO SP
+http://31.204.128.127:8081/live/sptv/playlist.m3u8
+
+#EXTINF:0,GLOBO SP
+http://31.204.152.6:8081/live/sptvx/playlist.m3u8
+
+#EXTINF:0,GLOBO SP
+http://213.163.65.116:8081/live/sptvhd/playlist.m3u8
+
+#EXTINF:0,GLOBO SP
+http://213.163.71.139:8081/live/sptvhd/playlist.m3u8
+
+
+#EXTINF:0,PFC
+http://31.204.128.112:8081/live/pfc/playlist.m3u8
+
+#EXTINF:0,PFC
+http://213.163.65.116:8081/live/pfc/playlist.m3u8
+
+#EXTINF:0,PFC
+http://213.163.71.139:8081/live/pfc/playlist.m3u8
+
+#EXTINF:0,PFC 2
+http://31.204.128.112:8081/live/pfc2/playlist.m3u8
+
+#EXTINF:0,PFC 2
+http://31.204.128.127:8081/live/pfc2/playlist.m3u8
+
+#EXTINF:0,PFC 2
+http://213.163.65.116:8081/live/pfc2/playlist.m3u8
+
+#EXTINF:0,PFC 2
+http://213.163.71.139:8081/live/pfc2/playlist.m3u8
+
+
+#EXTINF:0,PREMIERE
+http://video01-lax.streamup.com:80/app/ch2001tvs-stream_aac/live.m3u8
+
+#EXTINF:0,PREMIERE 2
+http://video01-lax.streamup.com:80/app/ch28112s-stream_aac/live.m3u8
+
+#EXTINF:0,PREMIERE 3
+http://video01-lax.streamup.com:80/app/ch28113s-stream_aac/live.m3u8
+
+
+#EXTINF:0,SPORTV
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+
+#EXTINF:0,SPORTV
+http://31.204.128.127:8081/live/sportv/playlist.m3u8
+
+#EXTINF:0,SPORTV
+http://213.163.65.116:8081/live/sportv/playlist.m3u8
+
+#EXTINF:0,SPORTV
+http://213.163.71.139:8081/live/sportv/playlist.m3u8
+
+#EXTINF:0,SPORTV 2
+http://31.204.128.112:8081/live/sportv2/playlist.m3u8
+
+#EXTINF:0,SPORTV 2
+http://31.204.128.127:8081/live/sportv2/playlist.m3u8
+
+#EXTINF:0,SPORTV 2
+http://213.163.65.116:8081/live/sportv2/playlist.m3u8
+
+#EXTINF:0,SPORTV 2
+http://213.163.71.139:8081/live/sportv2/playlist.m3u8
+
+
+#EXTINF:0,TV ABCD SP
+http://streaming50.sitehosting.com.br:1935/tvabcd/tvabcd/live.m3u8
+
+
+
+
+## Parte 3 Brasil...
 
 #EXTINF:-1 tvg-logo="https://goo.gl/kVKekY" group-title="Futebol ao vivo", Futebol ao Vivo
 http://load-01.aovivo.gratis/live/10/index.m3u8
