@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/ICO/PORTUGAL.png",PORTUGAL
 http://fui.me
 
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/PORTOCANAL.png" tvg-id="PortoCanal.pt" tvg-name"PORTO RITO" group-title="PORTUGAL",PRTC-RITO
-http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
-
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/PORTOCANAL.png" tvg-id="PortoCanal.pt"tvg-name"PORTO RITO2" group-title="PORTUGAL"
-http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTP1.png" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8
